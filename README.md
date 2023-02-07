@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-unger
 - 👀 I’m interested in embedded, full-stack, mobile, user experience and distributed systems. 
-- 🌱 I’m currently learning development of complex C/C++ embedded systems, quantum computing programming and ansible.
+- 🌱 I’m currently working on my master thesis to find out, how to predict next actions on android.
 - 💞️ I’m looking to collaborate on new ideas that will change the future of work.
 - 📫 How to reach me? - planetcat.de/kontakt
 
